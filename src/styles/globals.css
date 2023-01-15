@@ -1,0 +1,12 @@
+a{
+  text-decoration: none;
+}
+
+h3{
+  font-family: Inter;
+  font-weight: 600;
+  font-size: 15px;
+  line-height: 18px;
+  font-style: normal;
+  margin-top: 20pt !important;
+}
